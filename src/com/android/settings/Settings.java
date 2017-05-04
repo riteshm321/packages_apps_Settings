@@ -325,4 +325,9 @@ public class Settings extends SettingsActivity {
      * Activity for AppDashboard.
      */
     public static class AppDashboardActivity extends SettingsActivity {}
+
+    /**
+     * Bootleggers custom activities
+     */
+    public static class BootlegDumpsterActivity extends SettingsActivity {}
 }

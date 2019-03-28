@@ -109,4 +109,10 @@
     <string name="data_usage_app_restrict_wifi_summary">Enable usage of Wi\u2011Fi data</string>
     <string name="data_usage_app_restrict_all">Allow network access</string>
     <string name="data_usage_app_restrict_all_summary">Enable network usage</string>
+
+    <!-- Aggressive battery -->
+    <string name="aggressive_idle_title">Extended idle</string>
+    <string name="aggressive_idle_summary">Reduce device wake ups and reduce the time required to enter idle state</string>
+    <string name="aggressive_standby_title">Aggressive standby</string>
+    <string name="aggressive_standby_summary">Restrict apps from running in background</string>
 </resources>

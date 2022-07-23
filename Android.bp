@@ -47,6 +47,7 @@ android_library {
     srcs: [
         "src/**/*.java",
         "src_dumpster/**/*.java",
+	"src/**/*.kt",
     ],
 
     aaptflags: ["--extra-packages com.bootleggers.dumpster"],
